@@ -1,5 +1,7 @@
 # Quote-Generator
-Creating a random quotation generator
+Creating a random quotation generator.
+
+
 The objective will be both simple and fun: to will build a random quote generator, in which the quotes will be randomly constructed by assembling different pieces of a sentence.
 
 The quotes are generated randomly one by one with each JavaScript call
