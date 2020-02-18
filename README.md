@@ -10,8 +10,8 @@ Choose between 2 types of quote generators (accordingly, you'll need two differe
 Once the quotes are generated, have the program generate new quotes or quit the program.
 
 
-
 This project includes:
+
 An HTML file
 A JS file
 A CSS file
