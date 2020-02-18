@@ -12,8 +12,12 @@ Once the quotes are generated, have the program generate new quotes or quit the 
 
 This project includes:
 
-An HTML file
-A JS file
-A CSS file
-A jpg file (site's background)
-A jpg file , image on site.
+.An HTML file
+
+.A JS file
+
+.A CSS file
+
+.A jpg file (site's background)
+
+.A jpg file , image on site.
