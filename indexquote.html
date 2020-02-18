@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Make your own Quote!!</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<h1> Welcome to Quote Generator!!</h1>
+	<div class="container">
+		<p id="changetext"> Quote is so easy</p>
+		<button id="randomBtn" class="button">Make a quote!</button>
+		<img src="images/images.jpg" width="600" height="500" align="left">
+		<h2>Choose your quotes's features:</h2>
+		<div>
+			<div class="form-group">
+				<div class="form-check">
+					<input class="form-check-input" type="radio" id="romantic-quote" value="red" checked name="quote-feature">
+					<label class="form-check-label" for="romantic-quote"><strong> Romantic </strong>
+					</label>
+				</div>
+				<div class="form-check">
+					<input class="form-check-input" type="radio" id="motivate-quote" value="green" name="quote-feature">
+					<label class="form-check-label" for="motivational-quote"><strong> Motivational </strong>
+					</label>
+				</div>			
+				<button id="romanceBtn" class="button red box">Romantic Quotes </button>
+				<button id="motivateBtn" class="button green box"> Motivational Quotes </button>
+				<select id="selection">
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+				<p id="normal"></p>
+			<input type="button" button id="closeBtn" value="Close this window" onclick="windowClose()">
+	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8=" crossorigin="anonymous"></script>
+	<script src="script.js"></script>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,52 @@
+h1{
+    color: blue;
+	font-family:serif;
+	font-size: 40px;
+	padding-left:300px;
+	text-decoration:  underline;
+  }
+body{
+	background: url(images/downloadgrey.jpg);
+    }
+p{
+	color: darkgreen;
+	font-family:sans-serif;
+	font-size:20px;
+	font-style: oblique;	
+  }	
+button{
+	border-color: blue;
+    border-radius: 10px;
+	padding-right: 30px;
+	font-size: 15px;
+	align-content: center;
+	display:inline-block;	
+     }
+h2{
+	color : red;
+	font-family:serif;
+	font-size: 20px;
+	font-weight: 300;
+   }
+img{
+	position:left ;
+	padding-right:20px;
+   }
+select{	
+	margin:10px;
+	box-sizing: border-box;
+      }
+#closeBtn{
+	color: red;
+	position:fixed; 
+	right:300px;
+	bottom:390px;
+       }
+.red{
+	color: green;
+	display:inline-block;
+    }
+.green{
+	color: blue;
+	display:none;
+      }
